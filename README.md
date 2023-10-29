@@ -34,7 +34,7 @@
 
 Firecamp is a dx-first API development platform that helps developers design, develop, test, and document their APIs effortlessly. With a user-friendly interface and a range of powerful features, it streamlines the API development workflow and enhances collaboration among team members.
 
-- 🌈  best-in-class developer experience inspired by vscode dx. <br/>
+- 🌈  best-in-class developer experience inspired by vs code dx. <br/>
 - 📡 multi-protocol testing capabilities with Rest, GraphQL, Websocket, and SocketIO APIs. <br/>
 - 👐 collaborate on API collections across the workspace and team <br/>
 - ⛺ build APIs faster without switching between tools and apps. documentation, cli, ci/cd under one roof <br/>
