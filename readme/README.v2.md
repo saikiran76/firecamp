@@ -23,9 +23,9 @@
 
 Firecamp is a dx-first API development platform that helps developers design, develop, test, and document their APIs effortlessly. With a user-friendly interface and a range of powerful features, it streamlines the API development workflow and enhances collaboration among team members.
 
-- 🌈  best-in-class developer experience inspired by vscode dx. <br/>
+- 🌈  best-in-class developer experience inspired by vs code dx. <br/>
 - 📡 multi-protocol testing capabilities with Rest, GraphQL, Websocket, and SocketIO APIs. <br/>
-- 👐 collaborate on api collections across the workspace and team <br/>
+- 👐 collaborate on API collections across the workspace and team <br/>
 - ⛺ build apis faster without switching between tools and apps. documentation, cli, ci/cd under one roof <br/>
   
 
@@ -47,7 +47,7 @@ Read the Firecamp doc for in-depth walk-throughs on functionality to understand 
 Firecamp offers you a broad range of features that will help you build APIs faster than ever.
 
 📂 [Collection](https://firecamp.io/docs/platform/collection) : 
-Manage Collection of APIs to collaborate within team <br/>
+Manage Collection of APIs to collaborate within the team <br/>
 
 ⛳ [API Playgrounds](https://firecamp.io/docs/rest/introduction) : 
 Get instant playgrounds for your APIs. Rest, GraphQL, and more <br/>
@@ -62,7 +62,7 @@ Test and Debug your auth endpoints with a range of supported auths <br/>
 Interpret the API with pre-request and tests scripts <br/>
 
 🔩 [Dynamic Variables](https://firecamp.io/docs/platform/environment) : 
-Set values in variables to reuse in whole platform dynamically <br/>
+Set values in variables to reuse in the whole platform dynamically <br/>
 
 📡 [Firecamp Web](https://firecamp.dev) : 
 Get quick access to web platform <br/>
@@ -72,7 +72,7 @@ Get quick access to web platform <br/>
 There is a dedicated GUI playground for each API protocol you would be using for your stack.
 
 1. [**Rest Playground**](https://firecamp.io/docs/rest/introduction) 
-  It's the lightweight, IntelliSense, and next-generation testing client to give the most delightful collaborative experience while building APIs in a team. 
+  It's the lightweight, IntelliSense, and next-generation testing client to gives the most delightful collaborative experience while building APIs in a team. 
 
 2. [**GraphQL Playground**](https://firecamp.io/docs/graphql/introduction) 
   Perform GraphQL operations with a seamless experience. Prepare, Share, and Export your Query Collection collaboratively with your team.
@@ -86,23 +86,23 @@ There is a dedicated GUI playground for each API protocol you would be using for
 ## 🛣️  Roadmap
 
 
-💻  Desktop Apps : Get the Desktop app for your preferred OS/platform <br/>
+💻  Desktop Apps: Get the Desktop app for your preferred OS/platform <br/>
 
-🛰️ Self-hosted : Host Firecamp on your own server
+🛰️ Self-hosted: Host Firecamp on your own server
 
-🔁 CLI & CI/CD : Run API Collection Tests in the terminal or set in CI/CD pipeline <br/>
+🔁 CLI & CI/CD: Run API Collection Tests in the terminal or set in CI/CD pipeline <br/>
 
-➿  API Test Runner :  Run the API Collection visually within the platform </br>
+➿  API Test Runner:  Run the API Collection visually within the platform </br>
 
-📄  API Documentation :  Publish beautiful API documentation for your team and community </br>
+📄  API Documentation:  Publish beautiful API documentation for your team and community </br>
 
-⚛️ Artificial Intelligence : Cutting-edge AI-powered capabilities </br>
+⚛️ Artificial Intelligence: Cutting-edge AI-powered capabilities </br>
 
-⚓ SSL : Use custom SSL certificates to test out the SSL-secured API endpoints </br>
+⚓ SSL: Use custom SSL certificates to test out the SSL-secured API endpoints </br>
 
-📝  Proxy : Setup proxy while running requests from Firecamp </br>
+📝  Proxy: Setup proxy while running requests from Firecamp </br>
 
-ℹ️ History : Seamless history tracking
+ℹ️ History: Seamless history tracking
 
 ## 📡 Get Involved 
 
@@ -122,7 +122,7 @@ If you encounter any bugs, or issues, or have suggestions, please open an issue 
 ## 💭 Philosophy
 The decentralization of tools, processes, and people creates friction in API development workflow and frustration across the team. Developers are constantly switching between tools, searching for information, and wasting time due to inefficient tools.
 We believe that the existing solution lacks both world-class experience and the simplicity needed to build APIs faster. This leads to a decrease in developer productivity, slow release times, and poor team collaboration.
-We are bringing the VS code philosophy to Firecamp to solve this critical problem. Our mission is to build the most extensible, minimal and best developer experience API platform where developers feel most productive while building APIs.
+We are bringing the VS code philosophy to Firecamp to solve this critical problem. Our mission is to build the most extensible, minimal, and best developer experience API platform where developers feel most productive while building APIs.
 
 ## 🏄  What's cool about this?
 
